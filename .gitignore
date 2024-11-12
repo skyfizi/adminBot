@@ -1,0 +1,6 @@
+# Игнорируем конфиг файлы
+.env
+config.json
+
+# Игнорируем Node.js файлы
+node_modules/
